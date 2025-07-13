@@ -1,3 +1,9 @@
+"It's the fish that John West reject that makes John West the best"
+
+Here's where I put rejected PRs that, in my opinion, are superior.
+
+Below is the original unaltered README
+
 # Pattern Language 
 
 ![Unit Tests](https://img.shields.io/github/actions/workflow/status/WerWolv/PatternLanguage/tests.yml?branch=master&label=Unit%20Tests&style=flat-square)<br>
